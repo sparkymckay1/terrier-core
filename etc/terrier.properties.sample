@@ -127,6 +127,7 @@ invertedfile.processpointers=2000000
 #reduce these if you experience OutOfMemory while inverted the direct file
 
 
+
 ####################
 #(b) single-pass indexing
 #####################
