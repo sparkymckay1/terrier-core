@@ -1,6 +1,6 @@
 #This file provides some examples of how to set up properties.
 
-#this is my file
+
 #index path - where terrier stores its index
 #terrier.index.path=/usr/local/terrier/var/index/
 
